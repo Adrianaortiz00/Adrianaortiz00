@@ -1,3 +1,6 @@
+![github-header-image](https://github.com/user-attachments/assets/8dbf241b-c758-490d-a851-8c49a9b5a563)
+
+
 # 💫 About Me:
 Estoy en un emocionante proceso de transformación personal y profesional, formándome en un bootcamp de desarrollo web full stack. Con una sólida experiencia en el sector productivo, he desarrollado habilidades clave como el trabajo en equipo, la adaptabilidad y la resolución de problemas, que ahora aplico en el desarrollo web.<br><br>Me apasiona crear soluciones que realmente aporten valor y estoy comprometida con el aprendizaje continuo. Fuera del mundo de la tecnología, disfruto de la lectura, la música, el cuidado de mis plantas y de pasar tiempo al aire libre bajo el sol. La familia es mi mayor fuente de inspiración, y su apoyo me impulsa a seguir adelante.<br><br>Cada línea de código que escribo es un paso en mi camino hacia la innovación.
 
