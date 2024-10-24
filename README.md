@@ -1,5 +1,5 @@
 
-![Captura de pantalla 2024-09-23 181150](https://github.com/user-attachments/assets/41512ebd-ec55-47d8-a00b-2cfe95ad95e3)
+![Captura de pantalla 2024-10-24 204922](https://github.com/user-attachments/assets/9a23a01d-8bc1-4f96-85b6-c3c283b909ea)
 
 
 # 💫 About Me:
