@@ -3,7 +3,11 @@
 
 
 # 💫 About Me:
-Estoy en un emocionante proceso de transformación personal y profesional, formándome en un bootcamp de desarrollo web full stack. Con una sólida experiencia en el sector productivo, he desarrollado habilidades clave como el trabajo en equipo, la adaptabilidad y la resolución de problemas, que ahora aplico en el desarrollo web.<br><br>Me apasiona crear soluciones que realmente aporten valor y estoy comprometida con el aprendizaje continuo. Fuera del mundo de la tecnología, disfruto de la lectura, la música, el cuidado de mis plantas y de pasar tiempo al aire libre bajo el sol. La familia es mi mayor fuente de inspiración, y su apoyo me impulsa a seguir adelante.<br><br>Cada línea de código que escribo es un paso en mi camino hacia la innovación.
+Hola, soy Adriana. 🌟
+
+Soy desarrolladora web full stack, graduada de un bootcamp intensivo, y actualmente amplío mis habilidades en Microsoft Power Platform, explorando Power Apps y Power Automate. Mi formación en el sector productivo me ha enseñado a resolver problemas y trabajar en equipo, habilidades que aplico ahora en el desarrollo de soluciones tecnológicas escalables.
+
+Busco mi primer empleo en tecnología para seguir aprendiendo y contribuyendo al mundo digital con cada línea de código y automatización.
 
 
 ## 🌐 Socials:
