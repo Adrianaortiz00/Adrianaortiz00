@@ -1,13 +1,14 @@
-
-![Captura de pantalla 2024-10-24 204922](https://github.com/user-attachments/assets/9a23a01d-8bc1-4f96-85b6-c3c283b909ea)
+![github-header-image](https://github.com/user-attachments/assets/071f93b1-04b9-43bc-863d-2899c7d8863c)
 
 
 # 💫 About Me:
 Hola, soy Adriana. 🌟
 
-Soy desarrolladora web full stack, graduada de un bootcamp intensivo, y actualmente amplío mis habilidades en Microsoft Power Platform, explorando Power Apps y Power Automate. Mi formación en el sector productivo me ha enseñado a resolver problemas y trabajar en equipo, habilidades que aplico ahora en el desarrollo de soluciones tecnológicas escalables.
+Soy desarrolladora Full Stack con enfoque en Frontend y diseño UI/UX. Recientemente completé un bootcamp intensivo de desarrollo web, donde adquirí experiencia construyendo aplicaciones completas y resolviendo desafíos reales con código, diseño y mucha creatividad.
 
-Busco mi primer empleo en tecnología para seguir aprendiendo y contribuyendo al mundo digital con cada línea de código y automatización.
+Me apasiona transformar ideas en interfaces funcionales y atractivas. Disfruto trabajar en la intersección entre el diseño y el desarrollo, cuidando los detalles que hacen que una experiencia digital sea intuitiva, accesible y agradable.
+
+Antes de entrar al mundo tech, trabajé en el sector productivo, lo que fortaleció habilidades clave como el trabajo en equipo, la adaptabilidad y la mejora continua. Hoy aplico esos aprendizajes para construir soluciones con empatía y propósito
 
 
 ## 🌐 Socials:
